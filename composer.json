@@ -1,5 +1,5 @@
 {
-  "name": "oneshoe/clover-to-bitbucket",
+  "name": "fr05t1k/clover-to-bitbucket",
   "description": "Report clover coverage to bitbucket",
   "minimum-stability": "stable",
   "license": "Apache-2.0",
